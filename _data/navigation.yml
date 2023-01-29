@@ -11,11 +11,11 @@
   url: /pics.html
 - title: Machines for sale
   url: /forsale.html
-- title: Who we are
-  url: /about.html
-  url: /about
-  sublinks:
-    - title: Fixing your own machine
-      url: /DIY/index.html
+  #- title: Who we are
+  #  url: /about.html
+  #  url: /about
+  #  sublinks:
+  #    - title: Fixing your own machine
+  #      url: /DIY/index.html
 - title: Contact
   url: /contact.html
