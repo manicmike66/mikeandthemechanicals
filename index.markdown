@@ -9,7 +9,7 @@ description: "Sewing machine services with more than 10 years experience based i
 <div class="row">
 <div class="col-12 mb-1">
 <h2>Mike</h2>
-<li class="has-large-font-size">is a sewing and sewing machine enthusiast based at Anne Bonney's Locker, 392 Burwood Road, Hawthorn, Victoria, Australia.</li>
+<li class="has-large-font-size">is a sewing machine technician based at Anne Bonney's Locker, 392 Burwood Road, Hawthorn, Victoria, Australia.</li>
 <li class="has-large-font-size">has years of experience working in a busy sewing machine shop in Brisbane, where I specialised in dealing with older machines.</li>
 <li class="has-large-font-size">collects and likes to talk about machines, their history and technical details.</li>
 <li class="has-large-font-size">restores sewing machines.</li>
