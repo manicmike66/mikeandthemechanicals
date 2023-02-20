@@ -68,7 +68,7 @@ $(document).ready(function(){
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
-        {% assign navstyle = 'border border-white mx-2 bg-danger' %}
+        {% assign navstyle = 'border border-white mx-2 bg-success-subtle' %}
         {% assign links = site.data.navigation %}
         {% for entry in links %}
             {% assign class = nav-item %}
@@ -77,7 +77,7 @@ $(document).ready(function(){
             {% endif %}
             {% if entry.sublinks %}
                 <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} nav-item dropdown {{ class }} ">
-                    <a href="{{ site.baseurl }}{{ entry.url }}" id="{{entry.title}}-link" class="text-light nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ entry.title }} <span class="caret"></span></a>
+                    <a href="{{ site.baseurl }}{{ entry.url }}" id="{{entry.title}}-link" class="text-emphasis nav-link h5 dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ entry.title }} <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="{{entry.title}}-link">
                         {% for sublink in entry.sublinks %}
                             <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
@@ -86,7 +86,7 @@ $(document).ready(function(){
                 </li>
             {% else %}
                 <li id="{{ class }}" class="{{ class }} {{navstyle}}">
-                    <a class="nav-link " href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+                    <a class="nav-link h5 " href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}

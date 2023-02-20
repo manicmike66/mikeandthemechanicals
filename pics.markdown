@@ -62,126 +62,126 @@ description: "Sewing machine services with more than 10 years experience based i
   <div class="carousel-inner">
 
    <div class="carousel-item active">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/1.jpg" class="d-block w-100" />
+   <img alt="Husqvarna 2000 6020" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/1.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 1 of 23. Husqvarna 2000 6020</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/2.jpg" class="d-block w-100" />
+   <img alt="Husqvarna Prisma 940" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/2.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 2 of 23. Husqvarna Prisma 940</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/3.jpg" class="d-block w-100" />
+   <img alt="Pfaff Creative 7570 Embroidery machine" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/3.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 3 of 23. Pfaff Creative 7570 Embroidery machine</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/4.jpg" class="d-block w-100" />
+   <img alt="Janome SR2100" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/4.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 4 of 23. Janome SR2100</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/5.jpg" class="d-block w-100" />
+   <img alt="Janome MyExcel 18W" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/5.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
        <span style="padding:5px;color:black;background-color:white">Image 5 of 23. Janome MyExcel 18W</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/6.jpg" class="d-block w-100" />
+   <img alt="Japanese Universal automatic sewing machine" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/6.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 6 of 23. Japanese Universal automatic sewing machine</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/7.jpg" class="d-block w-100" />
+   <img alt="Husqvarna 2000 6460" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/7.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 7 of 23. Husqvarna 2000 6460</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/8.jpg" class="d-block w-100" />
+   <img alt="Elna Lotus TSP" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/8.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 8 of 23. Elna Lotus TSP</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/9.jpg" class="d-block w-100" />
+   <img alt="Elna Supermatic 62C" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/9.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 9 of 23. Elna Supermatic 62C</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/10.jpg" class="d-block w-100" />
+   <img alt="Husqvarna 2000 6440" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/10.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 10 of 23. Husqvarna 2000 6440</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/11.jpg" class="d-block w-100" />
+   <img alt="Jones Family CS" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/11.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 11 of 23. Jones Family CS</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/12.jpg" class="d-block w-100" />
+   <img alt="Singer 201P23" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/12.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 12 of 23. Singer 201P23</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/13.jpg" class="d-block w-100" />
+   <img alt="Singer 201K3" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/13.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 13 of 23. Singer 201K3</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/14.jpg" class="d-block w-100" />
+   <img alt="Husqvarna 2000 6370" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/14.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 14 of 23. Husqvarna 2000 6370</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/15.jpg" class="d-block w-100" />
+   <img alt="Elna Supermatic 62C" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/15.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 15 of 23. Elna Supermatic 62C</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/17.jpg" class="d-block w-100" />
+   <img alt="Necchi Supernova Julia" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/17.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 16 of 23. Necchi Supernova Julia</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/18.jpg" class="d-block w-100" />
+   <img alt="Selection of machines serviced for E-Waste connection Kenmore (Queensland)" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/18.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 17 of 23. Selection of machines serviced for E-Waste connection Kenmore (Queensland)</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/19.jpg" class="d-block w-100" />
+   <img alt="Husqvarna 2000 6460" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/19.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 18 of 23. Husqvarna 2000 6460</span>
    </div>
@@ -189,41 +189,41 @@ description: "Sewing machine services with more than 10 years experience based i
  
    <div class="carousel-item">
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/20.jpg" class="d-block w-100" />
+   <img alt="Husqvarna 2000 6020" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/20.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 19 of 23. Husqvarna 2000 6020</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/21.jpg" class="d-block w-100" />
+   <img alt="Husqvarna Combina II" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/21.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 20 of 23. Husqvarna Combina II</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/22.jpg" class="d-block w-100" />
+   <img alt="Elna Lotus and Husqvarna 6460" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/22.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 21 of 23. Elna Lotus and Husqvarna 6460</span>
    </div>
    </div>
  
    <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/23.jpg" class="d-block w-100" />
+   <img alt="Husqvarna CI 21 automatic sewing machine" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/23.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 22 of 23. Husqvarna CI 21 automatic sewing machine</span>
    </div>
    </div>
  
-   <div class="carousel-item">
-   <img style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/24.jpg" class="d-block w-100" />
+<!--0   <div class="carousel-item">
+   <img alt="Phoenix 283F automatic sewing machine" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/24.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 22 of 23. Phoenix 283F automatic sewing machine</span>
    </div>
    </div>
  
-  </div>
+  </div>-->
   <a class="carousel-control-prev" href="#carouselCaptions" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
