@@ -44,30 +44,11 @@
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #001e36;}
 </style>
-<script>
-$(document).ready(function(){
-    $("#toggleLink").unbind().click(function() {
-        var showList = $("#toggleLink").hasClass("show-nav-link");
-        if (showList) {
-            $("#sub-menu").show();
-            $("#toggleLink").removeClass("show-nav-link");
-            $("#toggleLink").addClass("hide-nav-link");
-            $("#toggleLink").html("Hide section navigation<span class=\"fa fa-angle-up\">&nbsp;</span>");
-        } else {
-            $("#sub-menu").hide();
-            $("#toggleLink").removeClass("hide-nav-link");
-            $("#toggleLink").addClass("show-nav-link");
-            $("#toggleLink").html("Show section navigation<span class=\"fa fa-angle-down\">&nbsp;</span>");
-        }
-    });
-});
-</script>
-<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white" role="navigation"><!-- class="collapse navbar-collapse">-->
-<button class="navbar-toggler text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon bg-dark"></span>
-</button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
+<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white bootsnav" role="navigation"><!-- class="collapse navbar-collapse">-->
+<!--<button class="navbar-toggle text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
+<!--<span class="navbar-toggler-icon bg-dark"></span>-->
+<!--</button>-->
+    <ul class="nav navbar-nav mx-auto" data-in="fadeInDown" data-out="fadeOutUp"><!-- nav navbar-nav">-->
         {% assign navstyle = 'border border-white mx-2 bg-success-subtle' %}
         {% assign links = site.data.navigation %}
         {% for entry in links %}
@@ -85,12 +66,11 @@ $(document).ready(function(){
                     </div>
                 </li>
             {% else %}
-                <li id="{{ class }}" class="{{ class }} {{navstyle}}">
+                <li id="{{ entry.title }}" class="{{ class }} {{navstyle}}">
                     <a class="nav-link h5 " href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}
     </ul>
-</div>
 </nav>
 

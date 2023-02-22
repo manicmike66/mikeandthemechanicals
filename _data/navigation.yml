@@ -1,8 +1,5 @@
 - title: Home
   url: /
-  sublinks:
-    - title: About
-      url: /index.html
 - title: Doing it yourself
   url: /diy.html
 - title: What I do
