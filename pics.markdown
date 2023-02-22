@@ -9,56 +9,35 @@ description: "Sewing machine services with more than 10 years experience based i
 <div class="row">
 <div class="col-12 mb-1">
 
-<div id="carouselCaptions" class="carousel slide carousel-fade pb-4" data-ride="carousel">
-  <ol class="carousel-indicators">
+<div id="carouselCaptions" class="carousel slide carousel-fade pb-4" data-bs-ride="carousel">
+  <div class="carousel-indicators">
 
-<li class="active" data-target="#carouselCaptions" data-slide-to="1"></li>
+<button type="button" class="active" data-bs-target="#carouselcaptions" data-bs-slide-to="1"></button>
 
-<li data-target="#carouselCaptions" data-slide-to="2"></li>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="2"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="3"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="4"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="5"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="6"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="7"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="8"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="9"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="10"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="11"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="12"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="13"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="14"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="15"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="16"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="17"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="18"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="19"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="20"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="21"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="22"></button>
+<button type="button" data-bs-target="#carouselcaptions" data-bs-slide-to="23"></button>
 
-<li data-target="#carouselCaptions" data-slide-to="3"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="4"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="5"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="6"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="7"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="8"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="9"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="10"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="11"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="12"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="13"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="14"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="15"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="16"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="17"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="18"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="19"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="20"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="21"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="22"></li>
-
-<li data-target="#carouselCaptions" data-slide-to="23"></li>
-
-  </ol>
+  </div>
   <div class="carousel-inner">
 
    <div class="carousel-item active">
@@ -224,14 +203,14 @@ description: "Sewing machine services with more than 10 years experience based i
    </div>
  
   </div>-->
-  <a class="carousel-control-prev" href="#carouselCaptions" role="button" data-slide="prev">
+  <button class="carousel-control-prev" data-bs-target="#carouselCaptions" type="button" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselCaptions" role="button" data-slide="next">
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" data-bs-target="#carouselCaptions" type="button" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div><!-- end carousel -->
 </div>
 
