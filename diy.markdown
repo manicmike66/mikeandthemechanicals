@@ -9,7 +9,7 @@ description: "Servicing your vintage sewing machine yourself"
 <div class="row">
 <div class="col-12 mb-1">
 <h2>You can do it</h2>
-<p class="has-large-font-size">Vintage machines are wonderful in their simplicity and they were made not only without an and date (they were made to last forever), but straight stitch machines were also made with self-servicing in mind. How do I know this? First of all, instructions for maintenance are printed in the manual.</p>
+<p class="has-large-font-size">Vintage machines are wonderful in their simplicity and they were made not only without an end date (they were made to last forever), but straight stitch machines were also made with self-servicing in mind. How do I know this? First of all, instructions for maintenance are printed in the manual.</p>
 <p class="has-large-font-size">There are just a couple of very basic rules:</p>
 <ul>
 <li>Clean before oiling</li>
@@ -32,7 +32,7 @@ description: "Servicing your vintage sewing machine yourself"
 <li><a href="https://tailororfailure.blogspot.com/2019/06/1970s-singer-bobbin-gear-replacement.html">Replacing the bobbin gear on a 70s Singer.</a></li>
 <li><a href="https://tailororfailure.blogspot.com/2021/04/husqvarna-6440.html">Husqvarna 2000 problems</a></li>
 
-<li><a href="https://tailororfailure.blogspot.com/2022/07/servicing-janome-myexcel.html"></a>Servicing a Janome My Excel</li>
+<li><a href="https://tailororfailure.blogspot.com/2022/07/servicing-janome-myexcel.html">Servicing a Janome My Excel</a></li>
 </p>
 </div><!-- end col -->
 </div><!-- end row -->
