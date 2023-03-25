@@ -34,7 +34,7 @@
 }
 #Toolbar ul li{ 
     font-size:small;
-    border: 1px solid #8b583d;
+    border: 1px solid #003333;
 }
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
@@ -49,7 +49,7 @@
 <!--<span class="navbar-toggler-icon bg-dark"></span>-->
 <!--</button>-->
     <ul class="nav navbar-nav mx-auto" data-in="fadeInDown" data-out="fadeOutUp"><!-- nav navbar-nav">-->
-        {% assign navstyle = 'border border-white mx-2 bg-success-subtle' %}
+        {% assign navstyle = 'border border-white mx-2 bg-primary %}
         {% assign links = site.data.navigation %}
         {% for entry in links %}
             {% assign class = nav-item %}
@@ -67,7 +67,7 @@
                 </li>
             {% else %}
                 <li id="{{ entry.title }}" class="{{ class }} {{navstyle}}">
-                    <a class="nav-link h5 " href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+                    <a class="nav-link h5 text-primary-emphasis" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}
