@@ -44,10 +44,7 @@
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #001e36;}
 </style>
-<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white bootsnav" role="navigation"><!-- class="collapse navbar-collapse">-->
-<!--<button class="navbar-toggle text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
-<!--<span class="navbar-toggler-icon bg-dark"></span>-->
-<!--</button>-->
+<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white bootsnav" role="navigation">
     <ul class="nav navbar-nav mx-auto" data-in="fadeInDown" data-out="fadeOutUp"><!-- nav navbar-nav">-->
         {% assign navstyle = 'border border-white mx-2 bg-primary %}
         {% assign links = site.data.navigation %}
