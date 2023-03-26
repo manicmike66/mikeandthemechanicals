@@ -1,13 +1,13 @@
 - title: Home
   url: /
-- title: Doing it yourself
-  url: /diy.html
 - title: Husqvarna 2000s
   url: /husqvarnas.html
 - title: What I do
   url: /whatwedo.html
 - title: Pictures
   url: /pics.html
+- title: Doing it yourself
+  url: /diy.html
   #- title: Machines for sale
   #url: /forsale.html
   #- title: Who we are
