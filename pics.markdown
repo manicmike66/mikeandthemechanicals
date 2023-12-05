@@ -167,7 +167,6 @@ description: "Sewing machine services with more than 10 years experience based i
    </div>
  
    <div class="carousel-item">
-   <div class="carousel-item">
    <img alt="Husqvarna 2000 6020" style="height:auto;width:auto" src="/mikeandthemechanicals/assets/images/repaired/19.jpg" class="d-block w-100" />
    <div style="bottom:-18px;" class="carousel-caption d-none d-md-block">
    <span style="padding:5px;color:black;background-color:white">Image 19 of 22. Husqvarna 2000 6020</span>
