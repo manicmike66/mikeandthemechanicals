@@ -76,7 +76,7 @@ The problem can be seen when the thread take up lever is sloppy. It's not a comm
 <div id="caps"></div>
 <h3>Capacitors</h3>
 <p class="has-large-font">
-The capacitor pack should usually be left alone until it fails. This is because it's a lot harder to remove than the one attached to the motor. I have been told that in addition to their suppression of AM radio and analogue TV signal interference, the one attached at the plug socket also slows down wear on the motor brushes. As a consequence, I always replace this one. It doesn't need to be soldered in, and is a very cheap item (less than $1 in Australia). 0.1uF, high voltage (at least 250V). If you see a Rifa capacitor in a Husqvarna 2000, always at least replace it, but if it's getting toward the end it swells up, begins to crack and goes a darker colour.
+The capacitor pack should usually be left alone until it fails. This is because it's a lot harder to remove than the one attached to the power block. I have been told that in addition to the motor attached ones suppression of AM radio and analogue TV signal interference, the one attached at the plug socket slows down wear on the motor brushes. As a consequence, I always replace this one. It doesn't need to be soldered in, and is a very cheap item (less than $1 in Australia). 0.1uF, high voltage (at least 250V). If you see a Rifa capacitor in a Husqvarna 2000, always at least replace it, but if it's getting toward the end it swells up, begins to crack and goes a darker colour.
 </p>
 <h3>Specialising</h3>
 <p class="has-large-font">
