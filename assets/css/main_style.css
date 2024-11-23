@@ -72,7 +72,7 @@
  #topnav ul { list-style: none; float: left; }
  #topnav ul li { list-style: none; float: left;}/* padding: 0 16px 4px 4px; }*/
  @media screen and (min-width: 100px){
- #topnav a { float: left; display: block; color: white; font-size: 14px; text-decoration: none; font-family: "Lato", Arial, Helvetica, sans-serif; padding: 9px 20px; border: 0; outline: 0; line-height: 1; list-style-type: none; text-transform: uppercase; }
+ #topnav a { float: left; display: block; color: white; font-size: 12px; text-decoration: none; font-family: "Lato", Arial, Helvetica, sans-serif; padding: 9px 20px; border: 0; outline: 0; line-height: 1; list-style-type: none; text-transform: uppercase; }
  }
  @media screen and (max-width: 1000px){
  #topnav a { padding: 9px 12px; font-size: 14px; }

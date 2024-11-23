@@ -4,12 +4,12 @@
   display: none;
   position: absolute;
   background-color: #fff;
-  color:#8b583d;
+  color:#00C;
   min-width: 140px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   width:100%;
-/*  line-height:2rem;*/
+  line-height:2rem;
   top:28px;
   list-style: none;
   text-align:center;
@@ -17,14 +17,14 @@
 
 /* Links inside the dropdown */
 .dropdown-content a {
-  color: #8b583d;
+  color: #00C;
   padding: 2px 6px;
   text-decoration: none;
   display: block;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #8b583d;
+.dropdown-content a:hover {background-color: #0d6efd;
     color: #fff;
 }
 #Toolbar ul { 
@@ -44,7 +44,7 @@
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #001e36;}
 </style>
-<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white bootsnav" role="navigation">
+<nav id="topnav"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white bootsnav" role="navigation">
     <ul class="nav navbar-nav mx-auto" data-in="fadeInDown" data-out="fadeOutUp"><!-- nav navbar-nav">-->
         {% assign navstyle = 'border border-white mx-2 bg-primary %}
         {% assign links = site.data.navigation %}
@@ -54,9 +54,9 @@
                 {% assign class = 'nav-item active' %}
             {% endif %}
             {% if entry.sublinks %}
-                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} nav-item dropdown {{ class }} ">
+                <li id="{{entry.title}}_dropdown-menu" id="{{ class }}" class="{{ navstyle }} dropdown {{ class }} ">
                     <a href="{{ site.baseurl }}{{ entry.url }}" id="{{entry.title}}-link" class="text-emphasis nav-link h5 dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ entry.title }} <span class="caret"></span></a>
-                    <div class="dropdown-menu" aria-labelledby="{{entry.title}}-link">
+                    <div class="dropdown-content" aria-labelledby="{{entry.title}}-link">
                         {% for sublink in entry.sublinks %}
                             <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                         {% endfor %}

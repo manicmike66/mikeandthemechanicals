@@ -2,6 +2,9 @@
   url: /
 - title: Husqvarna 2000s
   url: /husqvarnas.html
+  sublinks:
+    - title: Rebuilding
+      url: /husqvarna-rebuild.html
 - title: What I do
   url: /whatwedo.html
 - title: Pictures

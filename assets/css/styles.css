@@ -716,7 +716,7 @@ a:hover, a:active {
 	width: 50%;
 }
 
-/* added by Mike /*
+/* added by Mike */
 
 .demo{ background-color: #21213D; }
 nav.navbar.bootsnav{
@@ -728,7 +728,6 @@ nav.navbar.bootsnav{
 }
 nav.navbar.bootsnav .navbar-collapse{ padding: 0; }
 nav.navbar.bootsnav ul.nav > li > a{
-    color: #fff;
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
