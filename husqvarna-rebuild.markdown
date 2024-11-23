@@ -38,7 +38,7 @@ If you haven't already, put it in buttonhole stage 2 (bar tack), which makes it 
 </p>
 <figure class="figure">
 <img src="assets/images/pattern-after-sm.jpg" class="figure-img img-fluid rounded float-start" alt="cleaned and rebuilt pattern mechanism" />
-<figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after removal from a machine.</figcaption>
+<figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after being thoroughly cleaned and rebuilt.</figcaption>
 </figure>
 <p class="has-large-font">
 Manipulate the zig-zag lever (just to the right of the camstack) so it isn't in the way - I usually push it to the right then back so it's free of the mechanism. Use the tilted part that the light fitting screws into to assist here, and put the light fitting cord over this (the light fitting will stay in the machine) and once it's free you should be able to move the whole mechanism backwards. There is a spring surrounding the light wiring and it needs to be unhooked from the pattern mechanism. After this, the pattern mechanism will come straight out of the machine as a unit. Be aware that the automatic feed actuator (the leftmost part of the pattern unit) can fall when you remove the unit. Once the unit is out, you should carefully disassemble it and clean the wax from every part. It's very important that you don't force anything, the gears can break quite easily.
