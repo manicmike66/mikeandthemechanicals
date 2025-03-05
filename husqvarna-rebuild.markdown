@@ -27,7 +27,7 @@ I have only needed to actually remove the stitch width mechanism on a couple of 
 <em>Never attempt to force the dial, or you will break the pattern indicator gear.</em> 
 </p>
 <p class="has-large-font">
-After much trial and error, I discovered that it is entirely possible as well as a good idea to remove the whole pattern mechanism as a single unit. Take plenty of photos if you want to do this, and before starting <a href="https://archive.org/details/husqvarna-viking-service-manual-en">download the technical briefing (service manual)</a>. If you do this job often, you should get to the point of being able to remove in under five minutes.
+After much trial and error, I discovered that it is entirely possible as well as a good idea to remove the whole pattern mechanism as a single unit. Take plenty of photos if you want to do this, and before starting <a target="_NEW" href="https://archive.org/details/husqvarna-viking-service-manual-en">download the technical briefing (service manual)</a>. If you do this job often, you should get to the point of being able to remove in under five minutes.
 </p>
 <figure class="figure">
 <img src="assets/images/pattern-b4-sm.jpg" class="figure-img img-fluid rounded float-start" alt="seized pattern mechanism" />
