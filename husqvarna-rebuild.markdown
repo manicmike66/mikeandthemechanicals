@@ -15,7 +15,7 @@ Please note that this page is a work in progress. I will update with more detail
 <h3>This takes a lot of work</h3>
 <p class="has-large-font">
 The fact that I love repairing Husqvarnas means I will repair them. As mentioned, technicians avoid these due to the work involved. In the past I haven't performed a full restoration of a seized and broken 2000 from &ldquo;unused for decades&rdquo; condition for someone else. This changed when a lady came into the shop one Thursday afternoon (20/7/23) with a 6460 that hadn't been used for a very long time. It was completely seized, the reverse was stuck, the camstack was broken, the buttonhole function seized, the motor brushes worn out but it looked in excellent condition otherwise. I started prior to 6am on a Friday morning (probably at 5:50) and finished the test sew at 2:05pm, having taken a total of about 15 minutes for breaks (customers picking up and dropping machines off). That's *eight hours of work* by someone who has a lot of experience with these, and there wasn't anything unusually troublesome about it.
-<br/>So the lesson is that even for an experienced repairer, it takes a very long time to fix one of these. All of these problems are caused by Husqvarna's use of sintered bearings. Several years of being idle causes the leaking lubricant to settle on the bearings and completely dry out, effectively gluing the bearings. The good news is that by now none of the built-in lube is left, so it will never happen again (unless you &lsquo;lubricate&rsquo; with something like WD-40 or 3-in-1 oil, which also dry out and leave a sticky residue).
+<br/>So the lesson is that even for an experienced repairer, it takes a very long time to fix one of these. All of these problems are caused by Husqvarna's use of sintered bearings. Several years of being idle causes the leaking lubricant to settle on the bearings and completely dry out, effectively gluing the bearings. The good news is that by now none of the built-in lube is left, so it will never happen again (unless you &lsquo;lubricate&rsquo; with something like WD-40 or 3-in-1 oil, which also dry out and leave a sticky residue). I repeat: <b>do not use WD-40 or 3-in-1 on any sewing machine</b>. If you have (or someone else has), it must be washed off and lubricated with sewing machine oil. Some sewing machine mechanics I know regularly use WD-40, and the machines are always gummed up when left idle for a few months.
 </p>
 <h3>The stitch width mechanism</h3>
 <p class="has-large-font">
@@ -29,10 +29,23 @@ I have only needed to actually remove the stitch width mechanism on a couple of 
 <p class="has-large-font">
 After much trial and error, I discovered that it is entirely possible as well as a good idea to remove the whole pattern mechanism as a single unit. Take plenty of photos if you want to do this, and before starting <a target="_NEW" href="https://archive.org/details/husqvarna-viking-service-manual-en">download the technical briefing (service manual)</a>. If you do this job often, you should get to the point of being able to remove in under five minutes.
 </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-6">
 <figure class="figure">
 <img src="assets/images/pattern-b4-sm.jpg" class="figure-img img-fluid rounded float-start" alt="seized pattern mechanism" />
 <figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after removal from a machine.</figcaption>
 </figure>
+  </div>
+  <div class="col-sm-6">
+<figure class="figure">
+<img src="assets/images/cracked-camstack-300.jpg" class="figure-img img-fluid rounded float-start" alt="Husqvarna 2000 cracked camstack" />
+<figcaption class="figure-caption text-end">Husqvarna 2000 cracked camstack.</figcaption>
+</figure>
+  </div>
+</div>
+<div class="row">
 <p class="has-large-font">
 If you haven't already, put it in buttonhole stage 2 (bar tack), which makes it much easier to disconnect everything for removal of the pattern mechanism. There are three points to disconnect prior to removal of the pattern mechanism: The fork-shaped metal connection at the front of the stitch width mechanism, which controls the needle position - use a flat screwdriver to pry it away from the pattern mechanism then push it to the left until it stays out of the way. The two part spring loaded connector that goes from the back of the stitch width mechanism to the top and is secured with a circlip (careful with that circlip) - disconnect it. Remove the light fitting (there is a single flat screw visible when you pull the cover down), replace the screw in the light fitting so you don't lose it. Remove the white cover (I do this with the machine needle), then the screw holding the front dial. Finally, the big screw at the back. You don't need to remove the camstack separately.
 </p>
