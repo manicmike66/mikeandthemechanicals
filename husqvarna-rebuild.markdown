@@ -29,30 +29,82 @@ I have only needed to actually remove the stitch width mechanism on a couple of 
 <p class="has-large-font">
 After much trial and error, I discovered that it is entirely possible as well as a good idea to remove the whole pattern mechanism as a single unit. Take plenty of photos if you want to do this, and before starting <a target="_NEW" href="https://archive.org/details/husqvarna-viking-service-manual-en">download the technical briefing (service manual)</a>. If you do this job often, you should get to the point of being able to remove in under five minutes.
 </p>
-  </div>
-</div>
+  </div><!-- end col -->
+</div><!-- end row -->
 <div class="row">
   <div class="col-sm-6">
 <figure class="figure">
 <img src="assets/images/pattern-b4-sm.jpg" class="figure-img img-fluid rounded float-start" alt="seized pattern mechanism" />
 <figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after removal from a machine.</figcaption>
 </figure>
-  </div>
+  </div><!-- end col -->
   <div class="col-sm-6">
 <figure class="figure">
 <img src="assets/images/cracked-camstack-300.jpg" class="figure-img img-fluid rounded float-start" alt="Husqvarna 2000 cracked camstack" />
-<figcaption class="figure-caption text-end">Husqvarna 2000 cracked camstack.</figcaption>
+<figcaption class="figure-caption text-end">Husqvarna 2000 cracked camstack. They are usually much worse than this. This one will probably be okay for a year or two.</figcaption>
 </figure>
-  </div>
-</div>
+  </div><!-- end col -->
+</div><!-- end row -->
 <div class="row">
+<div class="col-sm-12">
 <p class="has-large-font">
-If you haven't already, put it in buttonhole stage 2 (bar tack), which makes it much easier to disconnect everything for removal of the pattern mechanism. There are three points to disconnect prior to removal of the pattern mechanism: The fork-shaped metal connection at the front of the stitch width mechanism, which controls the needle position - use a flat screwdriver to pry it away from the pattern mechanism then push it to the left until it stays out of the way. The two part spring loaded connector that goes from the back of the stitch width mechanism to the top and is secured with a circlip (careful with that circlip) - disconnect it. Remove the light fitting (there is a single flat screw visible when you pull the cover down), replace the screw in the light fitting so you don't lose it. Remove the white cover (I do this with the machine needle), then the screw holding the front dial. Finally, the big screw at the back. You don't need to remove the camstack separately.
+Here are the steps to remove the pattern mechanism:<br/>
+<ol>
+<li>Put your machine in buttonhole stage 2 (bar tack), which makes it much easier to disconnect everything for removal of the pattern mechanism by pulling out the stitch width knob with the width at 0 and turn it to 2. It should turn easily and click into each number stage. If it doesn't, you will need to fix this before progressing.</li>
+<li>Disconnect the fork-shaped metal connection at the front of the stitch width mechanism, which controls the needle position - use a small flat screwdriver to pry it away from the pattern mechanism then push it to the left until it stays out of the way (I gently push it in front of the rod that controls the feed dog height).</li>
+<li>Disconnect the spring loaded connector that goes from the buttonhole mechanism to across the top. It is secured with a circlip (be very careful that the circlip doesn't get away).</li>
+<li>Remove the light fitting (there is a single flat screw visible when you pull the cover down), put the screw back into the light fitting so you don't lose it.</li>
+<li>Remove the white cover at the front of the pattern knob (I use a machine needle), then the screw holding the front dial.</li>
+<li>Finally, remove the big screw at the back. You don't usually need to remove the camstack separately.</li>
+<li>You should now grip the mechanism by the metal part of the light fitting and the automatic feed (the metal extended part on the left) and manipulate it toward you. As soon as you start doing this you will notice that the light cord is in the way. You need to push the plastic light fitting up so that the mechanism can keep going back. When it is halfway out you will notice that there is also a spring attaching the light fitting to the mechanism. Disconnect this and since it's under a small amount of tension, attach the end to something so it won't come off.</li>
+</ol>
 </p>
+<p class="has-large-font">
+You should now have the pattern mechanism looking like the one in the picture above.<br/>
+Now you need to disassemble it completely and remove all of the waxy dried lubricant. Put on some rubber gloves and have a toothbrush and solvent to clean everything.
+</p>
+</div><!-- end col-12 -->
+<div id="carouselrebuild" class="carousel slide">
+<div class="carousel-inner">
+
+{% for photo in site.data.patternrebuild %}
+{% capture number %}{{ forloop.length }}{% endcapture %}
+{% if photo.file == 0 %} 
+<div class="carousel-item active">
+<img style="height:auto;width:auto" src="{{"assets/images/pattern-rebuild/1.jpg" | relative_url }}"  alt="basic pattern mechanism" class="d-block w-50" />
+<div style="bottom:-18px;" class="carousel-caption d-none d-md-block w-50">
+   <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. A Husqvarna pattern just after removal. The waxy lube is obvious, and is also present on shafts and between gears, effectively acting as glue.
+</span>
+   </div><!-- style -->
+   </div><!-- carousel item active -->
+{% else %}
+<div class="carousel-item">
+<img style="height:auto;width:auto" src="../assets/images/pattern-rebuild/{{photo.title}}.jpg" alt="{{photo.alt}}" class="d-block w-50" />
+   <div style="bottom:-18px;" class="carousel-caption d-none d-md-block w-50">
+   <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. {{photo.caption}}</span>
+   </div><!-- style -->
+   </div><!-- carousel item -->
+{% endif %}
+
+{% endfor %}
+  </div><!-- end carousel inner -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselrebuild" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" data-bs-target="#carouselrebuild" type="button" data-bs-slide="next">
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Next</span>
+  </button>
+</div><!-- end carousel slide -->
+<!--<figure class="figure">
+<img src="assets/images/pattern-rebuild/small/1-300.jpg" class="figure-img img-fluid rounded float-start" alt="Ready to be cleaned pattern mechanism" />
+<figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after removal. The waxy lube is obviously there. The same lubricant is also on shafts and between gears, effectively acting as glue.</figcaption>
+</figure>
 <figure class="figure">
 <img src="assets/images/pattern-after-sm.jpg" class="figure-img img-fluid rounded float-start" alt="cleaned and rebuilt pattern mechanism" />
 <figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after being thoroughly cleaned and rebuilt.</figcaption>
-</figure>
+</figure>-->
 <p class="has-large-font">
 Manipulate the zig-zag lever (just to the right of the camstack) so it isn't in the way - I usually push it to the right then back so it's free of the mechanism. Use the tilted part that the light fitting screws into to assist here, and put the light fitting cord over this (the light fitting will stay in the machine) and once it's free you should be able to move the whole mechanism backwards. There is a spring surrounding the light wiring and it needs to be unhooked from the pattern mechanism. After this, the pattern mechanism will come straight out of the machine as a unit. Be aware that the automatic feed actuator (the leftmost part of the pattern unit) can fall when you remove the unit. Once the unit is out, you should carefully disassemble it and clean the wax from every part. It's very important that you don't force anything, the gears can break quite easily.
 </p>
