@@ -63,6 +63,7 @@ Here are the steps to remove the pattern mechanism:<br/>
 You should now have the pattern mechanism looking like the one in the picture above.<br/>
 Now you need to disassemble it completely and remove all of the waxy dried lubricant. Put on some rubber gloves and have a toothbrush and solvent to clean everything.
 </p>
+<h3>Detailed steps, photos, cleaning and putting it back (instructions don't show on a phone)</h3>
 </div><!-- end col-12 -->
 <div id="carouselrebuild" class="carousel slide">
 <div class="carousel-inner">
