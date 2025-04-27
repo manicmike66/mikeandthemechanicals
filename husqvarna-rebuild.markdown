@@ -48,6 +48,9 @@ After much trial and error, I discovered that it is entirely possible as well as
 <div class="row">
 <div class="col-sm-12">
 <p class="has-large-font">
+If you need to buy a new camstack (originals are almost always cracked), I don't sell them but <a href="https://waltersimport.com.au/product/husqvarna-camstack/">Walter's import</a> does. They aren't cheap, but these machines will never be made again.
+</p>
+<p class="has-large-font">
 Here are the steps to remove the pattern mechanism:<br/>
 <ol>
 <li>Put your machine in buttonhole stage 2 (bar tack), which makes it much easier to disconnect everything for removal of the pattern mechanism by pulling out the stitch width knob with the width at 0 and turn it to 2. It should turn easily and click into each number stage. If it doesn't, you will need to fix this before progressing.</li>
@@ -63,7 +66,7 @@ Here are the steps to remove the pattern mechanism:<br/>
 You should now have the pattern mechanism looking like the one in the picture above.<br/>
 Now you need to disassemble it completely and remove all of the waxy dried lubricant. Put on some rubber gloves and have a toothbrush and solvent to clean everything.
 </p>
-<h3>Detailed steps, photos, cleaning and putting it back (instructions don't show on a phone)</h3>
+<h3>Detailed steps, photos, cleaning and putting it back</h3>
 </div><!-- end col-12 -->
 <div id="carouselrebuild" class="carousel slide">
 <div class="carousel-inner">
@@ -72,16 +75,16 @@ Now you need to disassemble it completely and remove all of the waxy dried lubri
 {% capture number %}{{ forloop.length }}{% endcapture %}
 {% if photo.file == 0 %} 
 <div class="carousel-item active">
-<img style="height:auto;width:auto" src="{{"assets/images/pattern-rebuild/1.jpg" | relative_url }}"  alt="basic pattern mechanism" class="d-block w-50" />
-<div style="bottom:-18px;" class="carousel-caption d-none d-md-block w-50">
+<img style="height:auto;width:auto;margin:auto" src="{{"assets/images/pattern-rebuild/1.jpg" | relative_url }}"  alt="basic pattern mechanism" class="d-block w-80" />
+<div style="bottom:-18px;" class="carousel-caption w-80 opacity-50">
    <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. A Husqvarna pattern just after removal. The waxy lube is obvious, and is also present on shafts and between gears, effectively acting as glue.
 </span>
    </div><!-- style -->
    </div><!-- carousel item active -->
 {% else %}
 <div class="carousel-item">
-<img style="height:auto;width:auto" src="../assets/images/pattern-rebuild/{{photo.title}}.jpg" alt="{{photo.alt}}" class="d-block w-50" />
-   <div style="bottom:-18px;" class="carousel-caption d-none d-md-block w-50">
+<img style="height:auto;width:auto" src="../assets/images/pattern-rebuild/{{photo.title}}.jpg" alt="{{photo.alt}}" class="d-block w-80" />
+   <div style="bottom:-18px;" class="carousel-caption w-80 opacity-50">
    <span style="padding:5px;color:black;background-color:white">Image {{forloop.index}} of {{number}}. {{photo.caption}}</span>
    </div><!-- style -->
    </div><!-- carousel item -->
@@ -98,29 +101,28 @@ Now you need to disassemble it completely and remove all of the waxy dried lubri
   <span class="visually-hidden">Next</span>
   </button>
 </div><!-- end carousel slide -->
-<!--<figure class="figure">
-<img src="assets/images/pattern-rebuild/small/1-300.jpg" class="figure-img img-fluid rounded float-start" alt="Ready to be cleaned pattern mechanism" />
-<figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after removal. The waxy lube is obviously there. The same lubricant is also on shafts and between gears, effectively acting as glue.</figcaption>
-</figure>
-<figure class="figure">
-<img src="assets/images/pattern-after-sm.jpg" class="figure-img img-fluid rounded float-start" alt="cleaned and rebuilt pattern mechanism" />
-<figcaption class="figure-caption text-end">A Husqvarna pattern mechanism just after being thoroughly cleaned and rebuilt.</figcaption>
-</figure>-->
+<h3>Adjusting the ZZ swing</h3>
 <p class="has-large-font">
-Manipulate the zig-zag lever (just to the right of the camstack) so it isn't in the way - I usually push it to the right then back so it's free of the mechanism. Use the tilted part that the light fitting screws into to assist here, and put the light fitting cord over this (the light fitting will stay in the machine) and once it's free you should be able to move the whole mechanism backwards. There is a spring surrounding the light wiring and it needs to be unhooked from the pattern mechanism. After this, the pattern mechanism will come straight out of the machine as a unit. Be aware that the automatic feed actuator (the leftmost part of the pattern unit) can fall when you remove the unit. Once the unit is out, you should carefully disassemble it and clean the wax from every part. It's very important that you don't force anything, the gears can break quite easily.
+Loosen the two screws holding the shaft gear and try to turn it. If it's seized, remove both of the grub screws, and spray methylated spirits in both of the holes. Now you need to force the shaft to turn without the gear moving. Keeping it from moving isn't easy, but I've found that putting a long screw onto the grub screw threads makes it much easier. Since using the hand wheel would break it, remove it and attach some vise-grips. Use these to turn the main shaft carefully while making sure the screw can't move (use tools or the frame to stop it moving). Once it starts to move, spray a bit more, then move the gear to the left and clean the shaft. Apply a little oil, move it back into position and insert and lighty tighten the grub screws.
 </p>
 <p class="has-large-font">
-If you need to buy a new camstack (originals are almost always cracked), I don't sell them but <a href="https://waltersimport.com.au/product/husqvarna-camstack/">Walter's import</a> does. They aren't cheap, but these machines will never be made again.
-</p>
-<p class="has-large-font">
-After removal, the mechanism must be disassembled. To do this, carefully follow the instructions in the technical briefing (service manual). I will add detailed instructions and photos to this page later. Until then, make sure you can get it back together without these. I usually pop the parts into a jar with methylated spirits and mineral turpentine. This will soften the lubricant and make it very easy to remove. Wear gloves so you don't get it on your hands.
-Disassemble so that all gears are removed from each other as well as from the pattern mechanism frame as per the technical briefing. If parts are very stuck, do not force them. Heat from a heat gun or hair dryer will soften the dried lubricant and make it much easier. Forcing any of the gears will break them. You should also remove the pin that the plastic knob fits onto, using pliers. Do this carefully so you can re-use it.
-Clean all parts and put it back together again. Be aware that I'm only focussing on putting back the gears so that you align them correctly, but you need to put other parts back on before the gears. The technical briefing shows you the order of the other.
-As you put it back together, the left needle zig-zag pattern will be selected (turn the outer knob clockwise), the inner knob has an alignment mark on one of the gear teeth. Grease lightly (I use Inox teflon grease) and put back the gear that this meshes with and align both gear's marks. Now put back the gear that moves the pattern cam. Grease this too. Getting this back on is a bit tricky because you have to hold the two parts while putting the gear on. The position is at the lowest possible point. There is a timing mark, but sometimes it's not obvious. Once this is on, put the screw in that holds all the gears on. Make sure that one side of it is not hitting anything.
-Once the gears are all on, put the horizontal bar and spring (that goes across the mechanism) back on then the dial and the knob and turn it to make sure you can select all of the patterns. You will need to hold the small black metal part up or it will get stuck. If you can't select all patterns you haven't aligned the gears correctly. If you have, replace the driving gear and camstack.
-Before you do, free up the metal gear that drives the pattern mechanism. This will be seized, and must be un-seized to set the zig-zag swing timing. It is immensely easier to do it while the pattern mechanism is out of the machine. Take out the two grub screws, squirt some methylated spirits into the holes and pop a small metal bar into the hole. Remove the plastic hand wheel (you can break it by using force) and use vise grips to hold the main shaft instead. Move it as gently as possible. It doesn't take much time to get the chemical in there. Once it's freed up, push the gear to the left and clean where it was. Put it back in place against the little black stop and put the grub screws back in. 
-Don't forget the automatic width controller on the left or to put the light spring back on (this needs to be done as you're inserting the mechanism. The light fitting should be wrapped above the support bar to rest at the front.
-Put the pattern mechanism back in and re-attach the three points of contact. Put the screw back in (with the plastic and metal washers) and put the indicator dial and knob on the front. 
+For people who can't read the captions well, here is what they say in long form:
+<ol>
+<li>A Husqvarna pattern just after removal. The waxy lube is obvious, and is also present on shafts and between gears, effectively acting as glue.</li>
+<li>With the camstack and pattern gear removed as a unit (they were stuck together). Clean these in solvent.</li>
+<li>With the arm removed. This is secured usually with a circlip (I have circlip pliers) as well as two nuts on two dished washers and an off-centre screw. You must keep these in the same order. Later models have a single nylon (self-locking) nut.</li>
+<li>Remove the washer clamping down the pattern gear, then the locking pin and all of the gears. I usually need to apply some heat in order to soften the lubricant. Be extremely careful removing these. The gears are very easy to break so don't apply any pressure anywhere except to the inside where there are less breakable parts. You don't need to remove the automatic feed arm, just clean it in place. This way you won't need to remove the star washer.</li>
+<li>Here are all the parts. Clean everything in methylated spirits and mineral turpentine solvent using a toothbrush to scrub. Dry them throughly then you will be ready to put them back. I lubricate everything with a teflon grease as I'm reassembling, but you could use tri-flow, as recommended by Husqvarna.</li>
+<li>Here are all the two bottom gears. The outer (bottom) one is turned and kept fully clockwise whilst the gears are being reassembled, so that it sits in the left zig-zag position. The next gear is inserted, then the pin is put back in. Align the mark on the inner gear so that it is as close as possible to the post, as per the photo.</li>
+<li>The next gear goes back onto the post, lubricated. Note the alignment mark, which matches up with the inner gear. Do not screw the clamping part on yet. The tricky part is next.</li>
+<li>I usually put a little grease into the channel as well as onto the gears. You have to hold the black metal part into the channel, align the alignment marks and insert the gear, all at the same time. The black part is at the end of the channel, since alignment occurs at the extreme clockwise position. Once this is on, you can screw the clamp on. Make sure that neither edge is hitting the central gear.</li>
+<li>After securing the central gear, put the front parts (coloured ring and the dial) and make sure you can turn it to every pattern. You will need to hold the black metal part upright or it will get stuck. You can now put some other parts back as per the photo. The black forked metal piece settles into a cutout every time a pattern is selected. Applying a little pressure you will be able to see how this works. Put the spring back into the central gears.</li>
+<li>The arm must be reassembled and goes on before the gear and camstack. Put it back on but be aware that you will need to loosen the horizontal screw on the right again in order to align the zigzag follower. This is done before putting the mechanism back into the machine. Put the gear in, lubricate the shaft then put the camstack in and secure it with the screw.</li>
+<li>At this point, reattach the pattern tension arm onto the automatic feed arm, making sure the spring goes onto the appropriate spot on the other arm. Put the indicator and dial back again and now you can check that everything works. Now that the camstack is in, you should now set the alignment of the zig-zag follower. When it is set, tighten the screw and you're almost ready to put it back into the machine.</li>
+<li>You will probably need to adjust the ZZ swing, so loosen the two screws holding the shaft gear and try to turn it. If it's seized, remove both of the grub screws, and spray methylated spirits in both of the holes. Now you need to force the shaft to turn without the gear moving. Keeping it from moving isn't easy, but I've found that putting a long screw onto the grub screw threads makes it much easier. Since using the hand wheel would break it, remove it and attach some vise-grips. Use these to turn the main shaft carefully while making sure the screw can't move (use tools or the frame to stop it moving). Once it starts to move, spray a bit more, then move the gear to the left and clean the shaft. Apply a little oil, move it back into position and insert and lighty tighten the grub screws.</li>
+<li>Now you can put the pattern mechanism back, putting the light housing and lead over the top of the metal part. Make sure the buttonhole control lever is safely off to the left. Reattach the spring for the light and push it on. It will click into the correct position. Make sure the auto feed is correctly inserted.</li>
+<li>Reattach this and carefully put the circlip back on. Put the pattern mechanism screw back and tighten it. The buttonhole control's U can be carefully put back underneath the corresponding part on the pattern mechanism. Put the indication ring and dial on the front and your pattern mechanism should now turn easily and work perfectly.</li>
+</ol>
 </p>
 <h3>The stitch length mechanism</h3>
 <p class="has-large-font">
