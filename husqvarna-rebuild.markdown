@@ -105,6 +105,7 @@ Now you need to disassemble it completely and remove all of the waxy dried lubri
 <p class="has-large-font">
 Loosen the two screws holding the shaft gear and try to turn it. If it's seized, remove both of the grub screws, and spray methylated spirits in both of the holes. Now you need to force the shaft to turn without the gear moving. Keeping it from moving isn't easy, but I've found that putting a long screw onto the grub screw threads makes it much easier. Since using the hand wheel would break it, remove it and attach some vise-grips. Use these to turn the main shaft carefully while making sure the screw can't move (use tools or the frame to stop it moving). Once it starts to move, spray a bit more, then move the gear to the left and clean the shaft. Apply a little oil, move it back into position and insert and lighty tighten the grub screws.
 </p>
+<h3>Just the pattern mechanism instructions</h3>
 <p class="has-large-font">
 For people who can't read the captions well, here is what they say in long form:
 <ol>
