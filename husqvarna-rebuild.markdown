@@ -14,6 +14,9 @@ description: "Sewing machine services with more than 10 years experience based i
 Read through the entire process before starting, especially the parts that are easy to break. If you aren't confident that you have the patience, tools or ability to do it yourself, <b>don't do it</b>. You would be risking breaking your beautiful European machine and it might be better value to leave it to an experienced professional.
 </p>
 <p class="has-large-font">
+There are several different versions of the pattern mechanism, and they all differ slightly, or a lot. The ones I have dealt with the most are from 6440 and 6460. The 6440 mechanism is the one I took the pictures of. The 6460 and later don't have two nuts holding the arm on, but a single nylon self-locking nut. Some have a reverse cam follower that's harder to remove. Later models also don't have the large clip securing the arm.
+</p>
+<p class="has-large-font">
 If your pattern mechanism is stuck, <b>do not force it</b>. The bottom gear, which drives the pattern indicator, is the first thing to break when you do this and they aren't cheap.
 </p>
 <p class="has-large-font">
@@ -27,7 +30,7 @@ If you can't get it into buttonhole mode, do not think you can skip this and rem
 The fact that I love repairing Husqvarnas means I will repair them. As mentioned, almost all sewing machine mechanics avoid these due to the work involved. In the past I haven't performed a full restoration of a seized and broken 2000 from &ldquo;unused for decades&rdquo; condition for someone else. This changed when a lady came into the shop one Thursday afternoon (20/7/23) with a 6460 that hadn't been used for a very long time. It was completely seized, the reverse was stuck, the camstack was broken, the buttonhole function seized, the motor brushes worn out but it looked in excellent condition otherwise. I started prior to 6am on a Friday morning (probably at 5:50) and finished the test sew at 2:05pm, having taken a total of about 15 minutes for breaks (customers picking up and dropping machines off). That's <b>eight hours of work</b> by someone who has a lot of experience with these, and there wasn't anything unusually troublesome about it.
 <br/>So the lesson is that even for an experienced repairer, it takes a very long time to fix one of these. All of these problems are much worse due to Husqvarna's adoption of sintered bearings. Several years of being idle causes the leaking lubricant to settle on the bearings and completely dry out, effectively gluing the bearings and whatever else it has leaked onto. The good news is that by now none of the built-in lube is left, so it will never happen again (unless you &lsquo;lubricate&rsquo; with something like WD-40 or 3-in-1 oil, which also dry out and leave a sticky residue). I repeat: <b>do not use WD-40 or 3-in-1 on any sewing machine</b>. If you have (or someone else has), it must be washed off and lubricated with sewing machine oil. Some sewing machine mechanics I know regularly use WD-40, and the machines are <b>always gummed up</b> when left idle for a few months.
 </p>
-<h3>The stitch width mechanism</h3>
+<h3>The stitch width and buttonhole mechanism</h3>
 <p class="has-large-font">
 If the pattern mechanism is seized, there's a high chance that the stitch width will be very tight <b>and</b> you can't get it into or out of buttonhole mode (with the dial on zero width you pull the dial and it should click). This leads me to the non-aligned buttonhole issue. Get yourself a bottle of methylated spirits and put a spray top on it. <b>Be very careful not to get it onto the exterior, as it will melt the paint</b> I usually put a cloth around what I'm attempting to free up to absorb the excess. Spray some onto the part between the plastic and metal parts and turn the dial. It will quickly become easier and in just a few minutes it should be quite easy to turn. Now put it on zero width and look at the mechanism. There should be a U shaped male part that fits into a U shaped female part. If these are not there, the metal part (towards the front of the machine) has slipped around and must now be turned until it allows the other part to enter when the dial is pulled for buttonhole mode. Be extremely gentle here. Remember that most of the metal on a seized Husqvarna had lubricant embedded. This means that the metal is not solid and can be more easily damaged, marked or broken. Putting a mark on the metal is something you will feel later when you go to use the machine. You'll be kicking yourself for not being careful enough. If you have to use a big screwdriver, wrap cotton around it. The metal part is curved and friction will still allow it to be moved. If you're lucky, your machine now has a working stitch width and buttonhole mechanism. Now you can put it into buttonhole position 2 and continue.
 I have only needed to actually remove the stitch width mechanism on a couple of occasions, which is just as well: It is very time consuming.
@@ -76,7 +79,7 @@ Here are the steps to remove the pattern mechanism:<br/>
 You should now have the pattern mechanism looking like the one in the picture above.<br/>
 Now you need to disassemble it completely and remove all of the waxy dried lubricant. Put on some rubber gloves and have a toothbrush and solvent to clean everything.
 </p>
-<h3>Detailed steps, photos, cleaning and putting it back</h3>
+<h3>Detailed steps, photos, cleaning and replacing it</h3>
 </div><!-- end col-12 -->
 <div id="carouselrebuild" class="carousel slide">
 <div class="carousel-inner">
@@ -135,7 +138,7 @@ For people who can't read the captions well, here is what they say in long form:
 <li>Reattach this and carefully put the circlip back on. Put the pattern mechanism screw back and tighten it. The buttonhole control's U can be carefully put back underneath the corresponding part on the pattern mechanism. Put the indication ring and dial on the front and your pattern mechanism should now turn easily and work perfectly.</li>
 </ol>
 </p>
-<h3>The stitch length mechanism</h3>
+<h3>Freeing the stitch length mechanism</h3>
 <p class="has-large-font">
 The reverse on this is almost always seized, so that's what we'll deal with. The problem is caused by dried lubricant inside the part that toggles, so we must free this up. This also take the greatest amount of time of all the seized parts. 
 </p>
