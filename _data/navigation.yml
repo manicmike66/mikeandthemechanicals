@@ -1,11 +1,13 @@
 - title: Home
   url: /
-- title: Husqvarna 2000s
+- title: Husqvarnas
   url: /husqvarnas.html
   sublinks:
-    - title: Rebuilding
+    - title: Rebuilding a 2000
       url: /husqvarna-rebuild.html
-- title: What I do
+    - title: Prismas
+      url: /husqvarna-prisma.html
+- title: What we do
   url: /whatwedo.html
 - title: Pictures
   url: /pics.html

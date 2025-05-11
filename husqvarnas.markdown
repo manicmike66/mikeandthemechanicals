@@ -1,7 +1,7 @@
 ---
-title: Husqvarna 2000s
+title: Husqvarnas
 layout: normal
-keywords: "Husqvarna 2000, viking 6000, sewing machines, sewing, vintage, melbourne"
+keywords: "Husqvarna, viking, sewing machines, sewing, vintage, melbourne"
 description: "Sewing machine services with more than 10 years experience based in Melbourne, Australia"
 
 ---
@@ -9,8 +9,7 @@ description: "Sewing machine services with more than 10 years experience based i
 <div class="row">
 <div class="col-12 mb-1">
 <h2>Have I always liked them?</h2>
-<p class="has-large-font">
-The 2000 is now the machine I like the best but when I first came across these I didn't like them at all. </p>
+<p class="has-large-font"> Husqvarnas are now the machines I like the best but when I first came across these I didn't like them at all. </p>
 <p class="has-large-font">
 This changed after a lady contacted me through a worldwide Facebook group that I was accidentally given the admin of. By an incredible coincidence she happened to live in the same city as me (Brisbane).
 She asked if I could tell her what she could do with a load of old machines she had inherited. She sent pictures and most of the Singers I liked and all of the European machines were well represented. One was an Elna 62C which I really wanted, so I went for a visit.<br/>
@@ -25,34 +24,24 @@ Later, a 6440 (which I bought a year later) became my favourite machine.</p>
 </p>
 <h3>The problems with the first six</h3>
 <ol>
-<li class="has-large-font">
-<a href="#plastic">Plastic covers.</a> They all had plastic covers and almost everywhere place the self tapping screws went in, the plastic had either split or come away from its anchor. </li>
-<li class="has-large-font">
-<a href="#unsieze">Seized.</a> They always seemed to be seized</li>
-<li class="has-large-font">
-<a href="#camstack">Camstack gears.</a> The cam stack/gears were almost always broken, meaning they couldn't do a zig-zag and had a tight spot.</li>
-<li class="has-large-font">
-<a href="#buttonhole">Buttonhole mechanism.</a> The buttonhole mechanism never seems to work</li>
-<li class="has-large-font">
-<a href="#gear">Pattern gear.</a> One of the metal gears inside the pattern mechanism breaks easily (it usually breaks when people force the pattern dial while seized).</li>
-<li class="has-large-font">
-<a href="#slide">Take-up slide.</a> They have a sliding part in the take-up lever that has a plastic component which can break.</li>
-<li class="has-large-font">
-<a href="#caps">Capacitors.</a> Like all motorised sewing machines, they have an interference capacitor pack, and sometimes have an additional one attached to the motor. These can explode, but are for the most part unnecessary to replace.
-</li>
+<li class="has-large-font"> <a href="#plastic">Plastic covers.</a> They all had plastic covers and almost everywhere place the self tapping screws went in, the plastic had either split or come away from its anchor. </li>
+<li class="has-large-font"> <a href="#unsieze">Seized.</a> They always seemed to be seized</li>
+<li class="has-large-font"> <a href="#camstack">Camstack gears.</a> The cam stack/gears were almost always broken, meaning they couldn't do a zig-zag and had a tight spot.</li>
+<li class="has-large-font"> <a href="#buttonhole">Buttonhole mechanism.</a> The buttonhole mechanism never seems to work</li>
+<li class="has-large-font"> <a href="#gear">Pattern gear.</a> One of the metal gears inside the pattern mechanism breaks easily (it usually breaks when people force the pattern dial while seized).</li>
+<li class="has-large-font"> <a href="#slide">Take-up slide.</a> They have a sliding part in the take-up lever that has a plastic component which can break.</li>
+<li class="has-large-font"> <a href="#caps">Capacitors.</a> Like all motorised sewing machines, they have an interference capacitor pack, and sometimes have an additional one attached to the motor. These can explode, but are for the most part unnecessary to replace.  </li>
 </ol>
-<p class="has-large-font">
-It certainly seems like they have very little going for them, and almost every other mechanic I know (certainly all of them in Melbourne) hate working on these because of all these problems. <br/>
+<p class="has-large-font"> It certainly seems like they have very little going for them, and almost every other mechanic I know (certainly all of them in Melbourne) hate working on these because of all these problems. <br/>
 After getting one of them working perfectly a couple of years ago, I absolutely loved the result. It's now my favourite machine, and I have been concentrating on this model more than any other to make as many as possible work perfectly.</p>
 <div id="plastic"></div>
 <h3>The plastic covers</h3>
 <p class="has-large-font">Once they're broken the best you can do is to try and glue the broken pieces back on. If they're not there, you can sticky tape or glue them, or maybe find one that's good. Not one of these is in any way ideal, so if you have a Husqvarna 2000 that you really want to disassemble and the anchors are intact, you should be armed with the knowledge that they will stay intact unless you cross thread the self tapping screws, or put the wrong type of screw in. It's really that simple. These points only split when the original screws aren't replaced properly. Turn the screw back before turning it forward and you can feel when it lands in the original hole. Remember, if it doesn't, it's not fixable, so take care.</p>
 <div id="unsieze"></div>
 <h3>Un-seizing</h3>
-<p class="has-large-font">
-I feel the need here to elaborate now that I know more. Only models from the 6020 have sintered bearings. Models prior can still get stiff, but the lubricant is normal grease and can easily be dissolved, and they don't often seize up.<br/>
+<p class="has-large-font"> I feel the need here to elaborate now that I know more. Only models from the 6020 have sintered bearings. Models prior can still get stiff, but the lubricant is normal grease and can easily be dissolved, and they don't often seize up.<br/>
 The sintered bearing machines have lubricant incorporated, so that they didn't need to be oiled. The downside of this is that whether it is used or not, the lubricant leaks out. If the machine never has a long period of not being used, the lube gets used and distributed and therefore doesn't seize up. If it does have a long idle period, the lubricant pools and goes solid in a lump. This is particularly problematic with the pattern mechanism and the stitch length mechanism, and the main problems associated with these are: (i) the pattern mechanism won't move; (ii) the machine is stuck in reverse and (iii) the buttonhole mechanism won't engage. 
-There are two ways to get rid of the waxy stuff without removal and disassembly. I always disassemble at least the pattern mechanism, because using any amount of force can break the pattern indicator gear. To clean in place, use a hot air source to soften the waxy lubricant. When it's softened a little, brush chemicals (mix of methylated spirits and mineral turpentine) into it using a toothbrush while applying slight pressure to the stuck mechanism. Repeat until it's moving freely. This sounds easy, but it's not. Sometimes you need to do this for several hours, and when it's freed up you think it's done, so you have a cup of something and when you come back it's seized again. This is because it has all cooled down and the wax, which was still there but softer, has hardened again. So, repeat until it doesn't harden when cooled. The same thing has to be done to the rest of the machine, but the pattern mechanism is always the worst. The reverse mechanism is the second worst. Then the buttonhole mechanism. <br/>
+There are two ways to get rid of the waxy stuff without removal and disassembly. I always disassemble at least the pattern mechanism, because using any amount of force can break the pattern indicator gear. To clean in place, use a hot air source to soften the waxy lubricant. When it's softened a little, brush chemicals (mix of methylated spirits and mineral turpentine) into it using a toothbrush while applying slight pressure to the stuck mechanism. Repeat until it's moving freely. This sounds easy, but it's not. Sometimes you need to do this for several hours, and when it's freed up you think it's done, so you have a cup of something and when you come back it's seized again. This is because it has all cooled down and the wax, which was still there but softer, has hardened again. So, repeat until it doesn't harden when cooled. The same thing has to be done to the rest of the machine, but the pattern mechanism is always the worst. The reverse mechanism is the second worst. Then the buttonhole mechanism. </p>
 <p class="has-large-font">
 The correct way is to disassemble them, clean, grease, reassemble and replace. This isn't easy either, and until I became very familiar with them I broke a lot of parts (sintered bearings are porous and more easily broken). It was very fortunate that I had a lot of parts machines.</p>
 <div id="camstack"></div>
