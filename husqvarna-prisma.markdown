@@ -10,7 +10,7 @@ description: "Sewing machine services with more than 10 years experience based i
 <div class="col-12 mb-1">
 <h2>What are they?</h2>
 <p class="has-large-font">
-The Prisma is the successor to the 2000 series which are sub-modelled 6nnn (where n is a digit between 0 to 9) and referred to as 6000 series in the USA. Model numbers include 940, 945, 950, 960, 970, 980 and 990. The higher the model number, the more features it has.
+Prisma model numbers include 940, 945, 950, 960, 970, 980 and 990. The higher the model number, the more features it has.
 <br/>In the USA Husqvarnas were called Viking, of course, but Prisma was also deleted from the model name and they are referred to in the USA as 7000 series. They were made immediately after the 6690 ceased production in the early 80s and were made until the end of the 1980s
 </p>
 </div><!-- end col-->
@@ -19,13 +19,13 @@ The Prisma is the successor to the 2000 series which are sub-modelled 6nnn (wher
 <div class="col-sm-6">
 <figure class="figure">
 <img class="figure-img img-fluid rounded max-width: 90% height:auto float-start" src="/assets/images/prisma_940.jpg" alt="Prisma 940"/>
-<figcaption class="figure-caption text-end"> Prisma 940 </figcaption>
+<figcaption class="figure-caption text-end"> Prisma 940s are fairly basic</figcaption>
 </figure>
 </div><!-- end col -->
 <div class="col-sm-6">
 <figure class="figure">
 <img class="figure-img img-fluid rounded max-width: 90% height:auto float-start" src="/assets/images/prisma_990.jpg" alt="Prisma 990"/>
-<figcaption class="figure-caption text-end"> Prisma 990 </figcaption>
+<figcaption class="figure-caption text-end"> Prisma 990s have replaceable pattern cassettes</figcaption>
 </figure>
 </div><!-- end col -->
 </div><!-- end row -->
