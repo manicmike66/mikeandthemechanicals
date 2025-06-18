@@ -70,4 +70,4 @@
         {% endfor %}
     </ul>
 </nav>
-
+<p class="text-danger h2 text-center">Due to unexpected injury, I won't be at work from 17/6 to 20/6</p>
