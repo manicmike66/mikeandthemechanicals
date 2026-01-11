@@ -9,8 +9,8 @@ description: "Sewing machine services with more than 10 years experience based i
 <div class="row">
 <div class="col-12 mb-1">
 <ol class="list-group list-group-numbered">
-<li class="list-group-item list-group-item-primary">Service sewing machines (not just mechanical machines).</li>
-<li class="list-group-item list-group-item-primary">Fix sewing machines. I work on machines that other technicians may not be able to fix or might not want to allocate the time. 1970s Husqvarnas are an excellent example of an excellent machine that most technicians avoid because they often take a lot of time to repair properly. I often hear about customers being told that a machine can't be fixed.</li>
+<li class="list-group-item list-group-item-primary">Service sewing machines and overlockers (not just mechanical machines).</li>
+<li class="list-group-item list-group-item-primary">Fix sewing machines and overlockers. I work on machines that other technicians may not be able to fix or might not want to allocate the time. 1970s Husqvarnas are an excellent example of an excellent machine that most technicians avoid because they often take a lot of time to repair properly. I often hear about customers being told that a machine can't be fixed.</li>
 <li class="list-group-item list-group-item-primary">Restore sewing machines. I can restore just about any vintage sewing machine, including re-plating parts where the original plating has gone.</li>
 <li class="list-group-item list-group-item-primary">Rewire and electrically test old sewing machines. I am a licensed electrical test and tagger.</li>
 </ol>
