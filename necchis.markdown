@@ -133,5 +133,75 @@ New capacitors are designed to last longer than originals, which lasted many dec
 </figure>
 </div><!-- end col 2-->
 </div><!-- end row-->
+<div class="row"><!-- start row-->
+<div class="col-sm-9">
+<h3>The Accessories</h3>
+<p class="has-large-font">
+Here is the accessory box. It is plastic and has a large wheel incorporated to give you more information about the settings to use with the cams. The case is opened by un-clipping the front and lifting it off.
+</p>
+</div><!-- end col 1-->
+<div class="col-sm-3">
+<figure class="figure">
+<img src="assets/images/necchi/accessory_case.jpg" class="figure-img img-fluid rounded " alt="The top of the accessory case" />
+<figcaption class="figure-caption text-end">The accessory case.</figcaption>
+</figure>
+</div><!-- end row-->
+<div class="row"><!-- start row-->
+<div class="col-sm-9">
+<p class="has-large-font">
+In the second photo you see the cams. The thing that looks like a bicycle brake lever is actually the buttonhole cam set, and it's sitting next to the buttonhole foot. The cams can clearly be seen at the bottom of the lever. The centre part is of additional cams. These can be mounted on a cam set that has a top that can be unscrewed. You can put the cams in and screw it together. The third section has the cam sets that come with the machine.</p>
+</div><!-- end col 1-->
+<div class="col-sm-3">
+<figure class="figure">
+<img src="assets/images/necchi/case2.jpg" class="figure-img img-fluid rounded " alt="The central section" />
+<figcaption class="figure-caption text-end">The central section.</figcaption>
+</figure>
+</div><!-- end col 2-->
+</div><!-- end row-->
+<div class="row"><!-- start row-->
+<div class="col-sm-9">
+<p class="has-large-font">
+The third photo shows the bottom layer of the box. You get to it by swivelling the cam layer. This one is quite complete. It was inundated in the 2022 Brisbane flood which explains the rust on the top right section.
+</p>
+<p class="has-large-font">
+The Necchi Supernova accessory box is as brilliantly thought out as the rest of the machine. Everything is there to do practically any sewing job and there's no reason to not keep it together.
+</p>
+</div><!-- end col 1-->
+<div class="col-sm-3"><!-- start col2-->
+<figure class="figure">
+<img src="assets/images/necchi/case3.jpg" class="figure-img img-fluid rounded " alt="The bottom section" />
+<figcaption class="figure-caption text-end">The bottom section.</figcaption>
+</figure>
+</div><!-- end col 2-->
+</div><!-- end row-->
+<div class="row"><!-- start row-->
+<div class="col-sm-9">
+<h3>The Buttonholer</h3>
+<p class="has-large-font">
+The buttonholer is a really great idea to make it easy to make a buttonhole automatically using the mechanical cams. It is strongly recommended that you mark out the postion of the buttonhole you want and do at least a couple of trial buttonholes before working on anything important. Here is how to use it:
+<ol>
+<li> Thread the bobbin case. There is a hole in the bobbin case that the thread should pass through. This is identical to the one used by Bernina, and serves to add a small amount of bobbin tension (without having to manually change the tension) and results in a neater buttonhole (the stitch is locked at the bottom).</li>
+<li> Prepare the machine for using cams by pushing the chrome lever (at the rear of the top) back, lift the cam cover and fit the buttonhole foot.</li>
+<li> Fit the buttonhole lever and return the chrome lever to its working position.</li>
+<li> Make sure that the zig-zag control is at the zero position (the zig-zag will be controlled automatically).</li>
+<li> With the lever to the left-most position, start sewing. It will start by sewing forward.</li>
+<li> When you have reached the end, stop and click the lever once to the right. Sew the bar tack.</li>
+<li> Click again and sew back to the start on the right.</li>
+<li> You should be getting the idea now. There are five positions for the buttonhole lever.</li>
+</ol>
+There is a ruler on the buttonhole foot. Use this to mark the size of the buttonhole so you can match the size. Don't forget to unthread the bobbin case when you've finished.
+</p>
+</div><!-- end col 1-->
+<div class="col-sm-3"><!-- start col2-->
+<figure class="figure">
+<img src="assets/images/necchi/buttonholer.jpg" class="figure-img img-fluid rounded " alt="The buttonholer" />
+<figcaption class="figure-caption text-end">The buttonholer.</figcaption>
+</figure>
+<figure class="figure">
+<img src="assets/images/necchi/swatch.jpg" class="figure-img img-fluid rounded " alt="The swatch" />
+<figcaption class="figure-caption text-end">The buttonhole on the last test swatch.</figcaption>
+</figure>
+</div><!-- end col 2-->
+</div><!-- end row-->
 </div><!-- end container -->
 
